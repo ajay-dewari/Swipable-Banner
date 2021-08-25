@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Swipable-Banner</string>
+
+    <!--array of image resource to display image over banner viewpager-->
+    <integer-array name="banner_img_array">
+        <item>@drawable/wall_one</item>
+        <item>@drawable/wall_two</item>
+        <item>@drawable/wall_three</item>
+        <item>@drawable/wall_four</item>
+    </integer-array>
+
+</resources>
